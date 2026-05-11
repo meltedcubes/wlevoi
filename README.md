@@ -20,5 +20,7 @@ Each asset entry in the binary has this format :
 The tool accepts arguments like wlevoi.exe myapp.exe -- out (dir) --verbose --help
 
 --help displays a help message with a guide of how to use wlevoi
+
 --verbose shows detailed extraction info
+
 --out is the output path for extracted assets
